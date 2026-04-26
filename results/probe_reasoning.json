@@ -1,0 +1,818 @@
+{
+  "langgraph": [
+    {
+      "ticket_id": "T-1001",
+      "calls": 2,
+      "prompt": 155,
+      "completion": 604,
+      "reasoning": 523,
+      "total": 759,
+      "non_reasoning_completion": 81
+    },
+    {
+      "ticket_id": "T-1002",
+      "calls": 2,
+      "prompt": 253,
+      "completion": 2957,
+      "reasoning": 2895,
+      "total": 3210,
+      "non_reasoning_completion": 62
+    },
+    {
+      "ticket_id": "T-1003",
+      "calls": 2,
+      "prompt": 179,
+      "completion": 537,
+      "reasoning": 472,
+      "total": 716,
+      "non_reasoning_completion": 65
+    },
+    {
+      "ticket_id": "T-1004",
+      "calls": 2,
+      "prompt": 287,
+      "completion": 1808,
+      "reasoning": 1718,
+      "total": 2095,
+      "non_reasoning_completion": 90
+    },
+    {
+      "ticket_id": "T-1005",
+      "calls": 2,
+      "prompt": 248,
+      "completion": 877,
+      "reasoning": 802,
+      "total": 1125,
+      "non_reasoning_completion": 75
+    },
+    {
+      "ticket_id": "T-1006",
+      "calls": 2,
+      "prompt": 158,
+      "completion": 1459,
+      "reasoning": 1385,
+      "total": 1617,
+      "non_reasoning_completion": 74
+    },
+    {
+      "ticket_id": "T-1007",
+      "calls": 2,
+      "prompt": 137,
+      "completion": 533,
+      "reasoning": 472,
+      "total": 670,
+      "non_reasoning_completion": 61
+    },
+    {
+      "ticket_id": "T-1008",
+      "calls": 2,
+      "prompt": 267,
+      "completion": 1090,
+      "reasoning": 999,
+      "total": 1357,
+      "non_reasoning_completion": 91
+    },
+    {
+      "ticket_id": "T-1009",
+      "calls": 2,
+      "prompt": 142,
+      "completion": 960,
+      "reasoning": 888,
+      "total": 1102,
+      "non_reasoning_completion": 72
+    },
+    {
+      "ticket_id": "T-1010",
+      "calls": 2,
+      "prompt": 219,
+      "completion": 512,
+      "reasoning": 434,
+      "total": 731,
+      "non_reasoning_completion": 78
+    },
+    {
+      "ticket_id": "T-1011",
+      "calls": 2,
+      "prompt": 251,
+      "completion": 635,
+      "reasoning": 566,
+      "total": 886,
+      "non_reasoning_completion": 69
+    },
+    {
+      "ticket_id": "T-1012",
+      "calls": 2,
+      "prompt": 288,
+      "completion": 1929,
+      "reasoning": 1856,
+      "total": 2217,
+      "non_reasoning_completion": 73
+    },
+    {
+      "ticket_id": "T-1013",
+      "calls": 2,
+      "prompt": 277,
+      "completion": 656,
+      "reasoning": 585,
+      "total": 933,
+      "non_reasoning_completion": 71
+    },
+    {
+      "ticket_id": "T-1014",
+      "calls": 2,
+      "prompt": 113,
+      "completion": 1505,
+      "reasoning": 1457,
+      "total": 1618,
+      "non_reasoning_completion": 48
+    },
+    {
+      "ticket_id": "T-1015",
+      "calls": 2,
+      "prompt": 265,
+      "completion": 697,
+      "reasoning": 625,
+      "total": 962,
+      "non_reasoning_completion": 72
+    },
+    {
+      "ticket_id": "T-1016",
+      "calls": 2,
+      "prompt": 190,
+      "completion": 760,
+      "reasoning": 689,
+      "total": 950,
+      "non_reasoning_completion": 71
+    },
+    {
+      "ticket_id": "T-1017",
+      "calls": 2,
+      "prompt": 159,
+      "completion": 721,
+      "reasoning": 654,
+      "total": 880,
+      "non_reasoning_completion": 67
+    },
+    {
+      "ticket_id": "T-1018",
+      "calls": 2,
+      "prompt": 206,
+      "completion": 555,
+      "reasoning": 472,
+      "total": 761,
+      "non_reasoning_completion": 83
+    },
+    {
+      "ticket_id": "T-1019",
+      "calls": 2,
+      "prompt": 186,
+      "completion": 540,
+      "reasoning": 473,
+      "total": 726,
+      "non_reasoning_completion": 67
+    },
+    {
+      "ticket_id": "T-1020",
+      "calls": 2,
+      "prompt": 140,
+      "completion": 1365,
+      "reasoning": 1293,
+      "total": 1505,
+      "non_reasoning_completion": 72
+    },
+    {
+      "ticket_id": "T-1021",
+      "calls": 2,
+      "prompt": 277,
+      "completion": 917,
+      "reasoning": 832,
+      "total": 1194,
+      "non_reasoning_completion": 85
+    },
+    {
+      "ticket_id": "T-1022",
+      "calls": 2,
+      "prompt": 264,
+      "completion": 2285,
+      "reasoning": 2189,
+      "total": 2549,
+      "non_reasoning_completion": 96
+    },
+    {
+      "ticket_id": "T-1023",
+      "calls": 2,
+      "prompt": 155,
+      "completion": 650,
+      "reasoning": 578,
+      "total": 805,
+      "non_reasoning_completion": 72
+    },
+    {
+      "ticket_id": "T-1024",
+      "calls": 2,
+      "prompt": 163,
+      "completion": 1081,
+      "reasoning": 996,
+      "total": 1244,
+      "non_reasoning_completion": 85
+    },
+    {
+      "ticket_id": "T-1025",
+      "calls": 2,
+      "prompt": 272,
+      "completion": 575,
+      "reasoning": 508,
+      "total": 847,
+      "non_reasoning_completion": 67
+    },
+    {
+      "ticket_id": "T-1026",
+      "calls": 2,
+      "prompt": 295,
+      "completion": 808,
+      "reasoning": 738,
+      "total": 1103,
+      "non_reasoning_completion": 70
+    },
+    {
+      "ticket_id": "T-1027",
+      "calls": 2,
+      "prompt": 161,
+      "completion": 611,
+      "reasoning": 541,
+      "total": 772,
+      "non_reasoning_completion": 70
+    },
+    {
+      "ticket_id": "T-1028",
+      "calls": 2,
+      "prompt": 146,
+      "completion": 710,
+      "reasoning": 637,
+      "total": 856,
+      "non_reasoning_completion": 73
+    },
+    {
+      "ticket_id": "T-1029",
+      "calls": 2,
+      "prompt": 151,
+      "completion": 536,
+      "reasoning": 461,
+      "total": 687,
+      "non_reasoning_completion": 75
+    },
+    {
+      "ticket_id": "T-1030",
+      "calls": 2,
+      "prompt": 286,
+      "completion": 607,
+      "reasoning": 531,
+      "total": 893,
+      "non_reasoning_completion": 76
+    }
+  ],
+  "crewai": [
+    {
+      "ticket_id": "T-1001",
+      "calls": 2,
+      "prompt": 444,
+      "completion": 529,
+      "reasoning": 451,
+      "total": 973,
+      "non_reasoning_completion": 78
+    },
+    {
+      "ticket_id": "T-1002",
+      "calls": 2,
+      "prompt": 554,
+      "completion": 1372,
+      "reasoning": 1293,
+      "total": 1926,
+      "non_reasoning_completion": 79
+    },
+    {
+      "ticket_id": "T-1003",
+      "calls": 2,
+      "prompt": 479,
+      "completion": 705,
+      "reasoning": 623,
+      "total": 1184,
+      "non_reasoning_completion": 82
+    },
+    {
+      "ticket_id": "T-1004",
+      "calls": 2,
+      "prompt": 591,
+      "completion": 671,
+      "reasoning": 577,
+      "total": 1262,
+      "non_reasoning_completion": 94
+    },
+    {
+      "ticket_id": "T-1005",
+      "calls": 2,
+      "prompt": 535,
+      "completion": 580,
+      "reasoning": 511,
+      "total": 1115,
+      "non_reasoning_completion": 69
+    },
+    {
+      "ticket_id": "T-1006",
+      "calls": 2,
+      "prompt": 454,
+      "completion": 618,
+      "reasoning": 540,
+      "total": 1072,
+      "non_reasoning_completion": 78
+    },
+    {
+      "ticket_id": "T-1007",
+      "calls": 2,
+      "prompt": 437,
+      "completion": 538,
+      "reasoning": 474,
+      "total": 975,
+      "non_reasoning_completion": 64
+    },
+    {
+      "ticket_id": "T-1008",
+      "calls": 2,
+      "prompt": 568,
+      "completion": 750,
+      "reasoning": 652,
+      "total": 1318,
+      "non_reasoning_completion": 98
+    },
+    {
+      "ticket_id": "T-1009",
+      "calls": 2,
+      "prompt": 435,
+      "completion": 591,
+      "reasoning": 527,
+      "total": 1026,
+      "non_reasoning_completion": 64
+    },
+    {
+      "ticket_id": "T-1010",
+      "calls": 2,
+      "prompt": 518,
+      "completion": 574,
+      "reasoning": 495,
+      "total": 1092,
+      "non_reasoning_completion": 79
+    },
+    {
+      "ticket_id": "T-1011",
+      "calls": 2,
+      "prompt": 556,
+      "completion": 514,
+      "reasoning": 431,
+      "total": 1070,
+      "non_reasoning_completion": 83
+    },
+    {
+      "ticket_id": "T-1012",
+      "calls": 2,
+      "prompt": 587,
+      "completion": 4444,
+      "reasoning": 4371,
+      "total": 5031,
+      "non_reasoning_completion": 73
+    },
+    {
+      "ticket_id": "T-1013",
+      "calls": 2,
+      "prompt": 584,
+      "completion": 731,
+      "reasoning": 647,
+      "total": 1315,
+      "non_reasoning_completion": 84
+    },
+    {
+      "ticket_id": "T-1014",
+      "calls": 2,
+      "prompt": 420,
+      "completion": 1083,
+      "reasoning": 1010,
+      "total": 1503,
+      "non_reasoning_completion": 73
+    },
+    {
+      "ticket_id": "T-1015",
+      "calls": 2,
+      "prompt": 568,
+      "completion": 722,
+      "reasoning": 637,
+      "total": 1290,
+      "non_reasoning_completion": 85
+    },
+    {
+      "ticket_id": "T-1016",
+      "calls": 2,
+      "prompt": 490,
+      "completion": 780,
+      "reasoning": 707,
+      "total": 1270,
+      "non_reasoning_completion": 73
+    },
+    {
+      "ticket_id": "T-1017",
+      "calls": 2,
+      "prompt": 457,
+      "completion": 852,
+      "reasoning": 779,
+      "total": 1309,
+      "non_reasoning_completion": 73
+    },
+    {
+      "ticket_id": "T-1018",
+      "calls": 2,
+      "prompt": 501,
+      "completion": 554,
+      "reasoning": 486,
+      "total": 1055,
+      "non_reasoning_completion": 68
+    },
+    {
+      "ticket_id": "T-1019",
+      "calls": 2,
+      "prompt": 483,
+      "completion": 749,
+      "reasoning": 687,
+      "total": 1232,
+      "non_reasoning_completion": 62
+    },
+    {
+      "ticket_id": "T-1020",
+      "calls": 2,
+      "prompt": 444,
+      "completion": 470,
+      "reasoning": 392,
+      "total": 914,
+      "non_reasoning_completion": 78
+    },
+    {
+      "ticket_id": "T-1021",
+      "calls": 2,
+      "prompt": 586,
+      "completion": 1205,
+      "reasoning": 1125,
+      "total": 1791,
+      "non_reasoning_completion": 80
+    },
+    {
+      "ticket_id": "T-1022",
+      "calls": 2,
+      "prompt": 568,
+      "completion": 995,
+      "reasoning": 904,
+      "total": 1563,
+      "non_reasoning_completion": 91
+    },
+    {
+      "ticket_id": "T-1023",
+      "calls": 2,
+      "prompt": 455,
+      "completion": 496,
+      "reasoning": 438,
+      "total": 951,
+      "non_reasoning_completion": 58
+    },
+    {
+      "ticket_id": "T-1024",
+      "calls": 2,
+      "prompt": 457,
+      "completion": 679,
+      "reasoning": 606,
+      "total": 1136,
+      "non_reasoning_completion": 73
+    },
+    {
+      "ticket_id": "T-1025",
+      "calls": 2,
+      "prompt": 570,
+      "completion": 640,
+      "reasoning": 573,
+      "total": 1210,
+      "non_reasoning_completion": 67
+    },
+    {
+      "ticket_id": "T-1026",
+      "calls": 2,
+      "prompt": 596,
+      "completion": 684,
+      "reasoning": 603,
+      "total": 1280,
+      "non_reasoning_completion": 81
+    },
+    {
+      "ticket_id": "T-1027",
+      "calls": 2,
+      "prompt": 463,
+      "completion": 537,
+      "reasoning": 461,
+      "total": 1000,
+      "non_reasoning_completion": 76
+    },
+    {
+      "ticket_id": "T-1028",
+      "calls": 2,
+      "prompt": 445,
+      "completion": 2527,
+      "reasoning": 2449,
+      "total": 2972,
+      "non_reasoning_completion": 78
+    },
+    {
+      "ticket_id": "T-1029",
+      "calls": 2,
+      "prompt": 447,
+      "completion": 471,
+      "reasoning": 407,
+      "total": 918,
+      "non_reasoning_completion": 64
+    },
+    {
+      "ticket_id": "T-1030",
+      "calls": 2,
+      "prompt": 587,
+      "completion": 798,
+      "reasoning": 720,
+      "total": 1385,
+      "non_reasoning_completion": 78
+    }
+  ],
+  "dspy": [
+    {
+      "ticket_id": "T-1001",
+      "calls": 2,
+      "prompt": 550,
+      "completion": 646,
+      "reasoning": 399,
+      "total": 1196,
+      "non_reasoning_completion": 247
+    },
+    {
+      "ticket_id": "T-1002",
+      "calls": 1,
+      "prompt": 340,
+      "completion": 977,
+      "reasoning": 744,
+      "total": 1317,
+      "non_reasoning_completion": 233
+    },
+    {
+      "ticket_id": "T-1003",
+      "calls": 1,
+      "prompt": 349,
+      "completion": 398,
+      "reasoning": 225,
+      "total": 747,
+      "non_reasoning_completion": 173
+    },
+    {
+      "ticket_id": "T-1004",
+      "calls": 3,
+      "prompt": 983,
+      "completion": 2058,
+      "reasoning": 1584,
+      "total": 3041,
+      "non_reasoning_completion": 474
+    },
+    {
+      "ticket_id": "T-1005",
+      "calls": 1,
+      "prompt": 330,
+      "completion": 394,
+      "reasoning": 245,
+      "total": 724,
+      "non_reasoning_completion": 149
+    },
+    {
+      "ticket_id": "T-1006",
+      "calls": 0,
+      "prompt": 0,
+      "completion": 0,
+      "reasoning": 0,
+      "total": 0,
+      "non_reasoning_completion": 0
+    },
+    {
+      "ticket_id": "T-1007",
+      "calls": 2,
+      "prompt": 568,
+      "completion": 1680,
+      "reasoning": 1329,
+      "total": 2248,
+      "non_reasoning_completion": 351
+    },
+    {
+      "ticket_id": "T-1008",
+      "calls": 0,
+      "prompt": 0,
+      "completion": 0,
+      "reasoning": 0,
+      "total": 0,
+      "non_reasoning_completion": 0
+    },
+    {
+      "ticket_id": "T-1009",
+      "calls": 2,
+      "prompt": 621,
+      "completion": 782,
+      "reasoning": 493,
+      "total": 1403,
+      "non_reasoning_completion": 289
+    },
+    {
+      "ticket_id": "T-1010",
+      "calls": 1,
+      "prompt": 321,
+      "completion": 234,
+      "reasoning": 118,
+      "total": 555,
+      "non_reasoning_completion": 116
+    },
+    {
+      "ticket_id": "T-1011",
+      "calls": 3,
+      "prompt": 968,
+      "completion": 1215,
+      "reasoning": 825,
+      "total": 2183,
+      "non_reasoning_completion": 390
+    },
+    {
+      "ticket_id": "T-1012",
+      "calls": 0,
+      "prompt": 0,
+      "completion": 0,
+      "reasoning": 0,
+      "total": 0,
+      "non_reasoning_completion": 0
+    },
+    {
+      "ticket_id": "T-1013",
+      "calls": 2,
+      "prompt": 709,
+      "completion": 1077,
+      "reasoning": 725,
+      "total": 1786,
+      "non_reasoning_completion": 352
+    },
+    {
+      "ticket_id": "T-1014",
+      "calls": 2,
+      "prompt": 517,
+      "completion": 802,
+      "reasoning": 566,
+      "total": 1319,
+      "non_reasoning_completion": 236
+    },
+    {
+      "ticket_id": "T-1015",
+      "calls": 0,
+      "prompt": 0,
+      "completion": 0,
+      "reasoning": 0,
+      "total": 0,
+      "non_reasoning_completion": 0
+    },
+    {
+      "ticket_id": "T-1016",
+      "calls": 2,
+      "prompt": 646,
+      "completion": 753,
+      "reasoning": 428,
+      "total": 1399,
+      "non_reasoning_completion": 325
+    },
+    {
+      "ticket_id": "T-1017",
+      "calls": 0,
+      "prompt": 0,
+      "completion": 0,
+      "reasoning": 0,
+      "total": 0,
+      "non_reasoning_completion": 0
+    },
+    {
+      "ticket_id": "T-1018",
+      "calls": 1,
+      "prompt": 290,
+      "completion": 345,
+      "reasoning": 190,
+      "total": 635,
+      "non_reasoning_completion": 155
+    },
+    {
+      "ticket_id": "T-1019",
+      "calls": 2,
+      "prompt": 617,
+      "completion": 628,
+      "reasoning": 357,
+      "total": 1245,
+      "non_reasoning_completion": 271
+    },
+    {
+      "ticket_id": "T-1020",
+      "calls": 0,
+      "prompt": 0,
+      "completion": 0,
+      "reasoning": 0,
+      "total": 0,
+      "non_reasoning_completion": 0
+    },
+    {
+      "ticket_id": "T-1021",
+      "calls": 1,
+      "prompt": 280,
+      "completion": 1453,
+      "reasoning": 1274,
+      "total": 1733,
+      "non_reasoning_completion": 179
+    },
+    {
+      "ticket_id": "T-1022",
+      "calls": 2,
+      "prompt": 691,
+      "completion": 650,
+      "reasoning": 409,
+      "total": 1341,
+      "non_reasoning_completion": 241
+    },
+    {
+      "ticket_id": "T-1023",
+      "calls": 0,
+      "prompt": 0,
+      "completion": 0,
+      "reasoning": 0,
+      "total": 0,
+      "non_reasoning_completion": 0
+    },
+    {
+      "ticket_id": "T-1024",
+      "calls": 1,
+      "prompt": 289,
+      "completion": 341,
+      "reasoning": 214,
+      "total": 630,
+      "non_reasoning_completion": 127
+    },
+    {
+      "ticket_id": "T-1025",
+      "calls": 1,
+      "prompt": 287,
+      "completion": 812,
+      "reasoning": 660,
+      "total": 1099,
+      "non_reasoning_completion": 152
+    },
+    {
+      "ticket_id": "T-1026",
+      "calls": 2,
+      "prompt": 703,
+      "completion": 544,
+      "reasoning": 265,
+      "total": 1247,
+      "non_reasoning_completion": 279
+    },
+    {
+      "ticket_id": "T-1027",
+      "calls": 1,
+      "prompt": 291,
+      "completion": 388,
+      "reasoning": 218,
+      "total": 679,
+      "non_reasoning_completion": 170
+    },
+    {
+      "ticket_id": "T-1028",
+      "calls": 1,
+      "prompt": 280,
+      "completion": 363,
+      "reasoning": 238,
+      "total": 643,
+      "non_reasoning_completion": 125
+    },
+    {
+      "ticket_id": "T-1029",
+      "calls": 1,
+      "prompt": 286,
+      "completion": 298,
+      "reasoning": 150,
+      "total": 584,
+      "non_reasoning_completion": 148
+    },
+    {
+      "ticket_id": "T-1030",
+      "calls": 1,
+      "prompt": 356,
+      "completion": 367,
+      "reasoning": 219,
+      "total": 723,
+      "non_reasoning_completion": 148
+    }
+  ]
+}

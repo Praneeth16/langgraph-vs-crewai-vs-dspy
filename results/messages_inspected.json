@@ -1,0 +1,28 @@
+{
+  "langgraph": [
+    {
+      "role": "user",
+      "content": "Is a mug refundable if it arrived damaged today under a 30-day damage policy? Reply with one short line."
+    }
+  ],
+  "crewai": [
+    {
+      "role": "system",
+      "content": "You are Refund Policy Analyst. You know damage clauses and return windows.\nYour personal goal is: Decide eligibility from ticket and policy\nTo give my best complete final answer to the task respond using the exact following format:\n\nThought: I now can give a great answer\nFinal Answer: Your final answer must be the great and the most complete as possible, it must be outcome described.\n\nI MUST use these formats, my job depends on it!"
+    },
+    {
+      "role": "user",
+      "content": "\nCurrent Task: Is a mug refundable if it arrived damaged today under a 30-day damage policy? Reply with one short line.\n\nThis is the expected criteria for your final answer: One line.\nyou MUST return the actual complete content as the final answer, not a summary.\n\nBegin! This is VERY important to you, use the tools available and give your best Final Answer, your job depends on it!\n\nThought:"
+    }
+  ],
+  "dspy": [
+    {
+      "role": "system",
+      "content": "Your input fields are:\n1. `question` (str):\nYour output fields are:\n1. `answer` (str):\nAll interactions will be structured in the following way, with the appropriate values filled in.\n\n[[ ## question ## ]]\n{question}\n\n[[ ## answer ## ]]\n{answer}\n\n[[ ## completed ## ]]\nIn adhering to this structure, your objective is: \n        Answer the question in one short line."
+    },
+    {
+      "role": "user",
+      "content": "[[ ## question ## ]]\nIs a mug refundable if it arrived damaged today under a 30-day damage policy? Reply with one short line.\n\nRespond with the corresponding output fields, starting with the field `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`."
+    }
+  ]
+}

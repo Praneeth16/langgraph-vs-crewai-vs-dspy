@@ -1,0 +1,1702 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "email_text": "Hope you're well. toaster stopped working after 2 days. Appreciate your help.",
+    "requested_refund": 27.67,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "short",
+      "tone": "calm",
+      "days_since_delivery": 7,
+      "amount_bucket": "20-75",
+      "email_char_len": 77,
+      "email_word_len": 12
+    }
+  },
+  {
+    "ticket_id": "T-1002",
+    "email_text": "Order ORD-76237. I ordered a camping tent and received something completely different. The SKU on the product doesn't match the SKU on my invoice. I haven't opened anything beyond the outer packaging. I'd like a refund and I don't want to deal with shipping a replacement because the last two orders had issues too. Please confirm.",
+    "requested_refund": 8.28,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "outdoor",
+      "product": "camping tent",
+      "length_bucket": "xlong",
+      "tone": "neutral",
+      "days_since_delivery": 1,
+      "amount_bucket": "5-20",
+      "email_char_len": 331,
+      "email_word_len": 56
+    }
+  },
+  {
+    "ticket_id": "T-1003",
+    "email_text": "This is unacceptable. The bedding set was supposed to arrive by about 1 weeks ago but came 10 days late. I no longer need it. I expect a prompt resolution.",
+    "requested_refund": 44.71,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "home",
+      "product": "bedding set",
+      "length_bucket": "med",
+      "tone": "angry",
+      "days_since_delivery": 10,
+      "amount_bucket": "20-75",
+      "email_char_len": 155,
+      "email_word_len": 30
+    }
+  },
+  {
+    "ticket_id": "T-1004",
+    "email_text": "Hope you're well. Order ORD-54118, received 9 days ago. The ceramic bowl set is missing screws and the assembly wrench. Without these parts I literally cannot use the product. I checked the packaging twice, contacted a friend who owns the same model to confirm, and my box is incomplete. Either send the missing parts within 2 days or refund the full amount. Appreciate your help.",
+    "requested_refund": 31.84,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "ceramic bowl set",
+      "length_bucket": "xlong",
+      "tone": "calm",
+      "days_since_delivery": 9,
+      "amount_bucket": "20-75",
+      "email_char_len": 380,
+      "email_word_len": 65
+    }
+  },
+  {
+    "ticket_id": "T-1005",
+    "email_text": "I bought the blender assuming it would work with my existing setup. The product description implied broad compatibility but in practice it only works with a specific adapter which I don't own and don't plan to buy. This wasn't clear from the listing. I feel the description was misleading and I'd like a refund.",
+    "requested_refund": 120.28,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "blender",
+      "length_bucket": "xlong",
+      "tone": "neutral",
+      "days_since_delivery": 15,
+      "amount_bucket": "75-150",
+      "email_char_len": 311,
+      "email_word_len": 54
+    }
+  },
+  {
+    "ticket_id": "T-1006",
+    "email_text": "I'm not sure how to handle this. bedding set quality is poor. Let me know what to do.",
+    "requested_refund": 387.95,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "home",
+      "product": "bedding set",
+      "length_bucket": "short",
+      "tone": "confused",
+      "days_since_delivery": 5,
+      "amount_bucket": "300-600",
+      "email_char_len": 85,
+      "email_word_len": 18
+    }
+  },
+  {
+    "ticket_id": "T-1007",
+    "email_text": "I no longer want the camping tent I ordered 8 days ago. Refund please.",
+    "requested_refund": 62.52,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "outdoor",
+      "product": "camping tent",
+      "length_bucket": "med",
+      "tone": "neutral",
+      "days_since_delivery": 8,
+      "amount_bucket": "20-75",
+      "email_char_len": 70,
+      "email_word_len": 14
+    }
+  },
+  {
+    "ticket_id": "T-1008",
+    "email_text": "Hope you're well. Bought the toaster from you 250 days ago. It failed last week. The manufacturer warranty is theoretically active but they're not responding to my support tickets. As the seller, can you process a refund and handle the warranty claim yourselves? I've attached photos and the failure mode is clearly covered under warranty terms. Appreciate your help.",
+    "requested_refund": 87.2,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "xlong",
+      "tone": "calm",
+      "days_since_delivery": 250,
+      "amount_bucket": "75-150",
+      "email_char_len": 367,
+      "email_word_len": 59
+    }
+  },
+  {
+    "ticket_id": "T-1009",
+    "email_text": "This is unacceptable. tablet doesn't fit. I expect a prompt resolution.",
+    "requested_refund": 518.74,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "short",
+      "tone": "angry",
+      "days_since_delivery": 6,
+      "amount_bucket": "300-600",
+      "email_char_len": 71,
+      "email_word_len": 11
+    }
+  },
+  {
+    "ticket_id": "T-1010",
+    "email_text": "This is unacceptable. I received my winter jacket on 5 days ago and when I opened the box the product was visibly damaged. There's a crack running along one side and the packaging looked tampered with. I'd like a refund please. I expect a prompt resolution.",
+    "requested_refund": 138.21,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "apparel",
+      "product": "winter jacket",
+      "length_bucket": "long",
+      "tone": "angry",
+      "days_since_delivery": 5,
+      "amount_bucket": "75-150",
+      "email_char_len": 257,
+      "email_word_len": 46
+    }
+  },
+  {
+    "ticket_id": "T-1011",
+    "email_text": "I'm not sure how to handle this. I bought a espresso machine 14 days ago and it worked for a while but now it's completely unresponsive. I've tried resetting, different outlets, and the steps in the manual. Nothing works. This seems like a manufacturing defect. I'd like a refund. Let me know what to do.",
+    "requested_refund": 8.16,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "espresso machine",
+      "length_bucket": "long",
+      "tone": "confused",
+      "days_since_delivery": 14,
+      "amount_bucket": "5-20",
+      "email_char_len": 304,
+      "email_word_len": 55
+    }
+  },
+  {
+    "ticket_id": "T-1012",
+    "email_text": "I'm not sure how to handle this. Order ORD-42325. I ordered a wireless headphones and received something completely different. The SKU on the product doesn't match the SKU on my invoice. I haven't opened anything beyond the outer packaging. I'd like a refund and I don't want to deal with shipping a replacement because the last two orders had issues too. Please confirm. Let me know what to do.",
+    "requested_refund": 34.57,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "wireless headphones",
+      "length_bucket": "xlong",
+      "tone": "confused",
+      "days_since_delivery": 10,
+      "amount_bucket": "20-75",
+      "email_char_len": 395,
+      "email_word_len": 69
+    }
+  },
+  {
+    "ticket_id": "T-1013",
+    "email_text": "This is unacceptable. I placed order ORD-28131 specifically because of the delivery guarantee. The camping tent was supposed to arrive about 1 weeks ago but actually arrived 10 days late. Because of this delay I had to buy backup supplies elsewhere for my home project. I don't want the product anymore and I'd like a full refund including the expedited shipping fee I paid. I expect a prompt resolution.",
+    "requested_refund": 91.45,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "outdoor",
+      "product": "camping tent",
+      "length_bucket": "xlong",
+      "tone": "angry",
+      "days_since_delivery": 10,
+      "amount_bucket": "75-150",
+      "email_char_len": 404,
+      "email_word_len": 69
+    }
+  },
+  {
+    "ticket_id": "T-1014",
+    "email_text": "blender came with missing parts.",
+    "requested_refund": 63.56,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "blender",
+      "length_bucket": "short",
+      "tone": "neutral",
+      "days_since_delivery": 5,
+      "amount_bucket": "20-75",
+      "email_char_len": 32,
+      "email_word_len": 5
+    }
+  },
+  {
+    "ticket_id": "T-1015",
+    "email_text": "This is unacceptable. I bought the winter jacket assuming it would work with my existing setup. The product description implied broad compatibility but in practice it only works with USB-C which I don't own and don't plan to buy. This wasn't clear from the listing. I feel the description was misleading and I'd like a refund. I expect a prompt resolution.",
+    "requested_refund": 375.42,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "winter jacket",
+      "length_bucket": "xlong",
+      "tone": "angry",
+      "days_since_delivery": 25,
+      "amount_bucket": "300-600",
+      "email_char_len": 356,
+      "email_word_len": 61
+    }
+  },
+  {
+    "ticket_id": "T-1016",
+    "email_text": "Hope you're well. The toaster doesn't match the quality shown in product photos. Materials feel low-grade and the finish is uneven. Looks nothing like the listing. Appreciate your help.",
+    "requested_refund": 107.61,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "long",
+      "tone": "calm",
+      "days_since_delivery": 5,
+      "amount_bucket": "75-150",
+      "email_char_len": 185,
+      "email_word_len": 29
+    }
+  },
+  {
+    "ticket_id": "T-1017",
+    "email_text": "This is unacceptable. I no longer want the tablet I ordered 8 days ago. Refund please. I expect a prompt resolution.",
+    "requested_refund": 138.13,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "med",
+      "tone": "angry",
+      "days_since_delivery": 8,
+      "amount_bucket": "75-150",
+      "email_char_len": 116,
+      "email_word_len": 21
+    }
+  },
+  {
+    "ticket_id": "T-1018",
+    "email_text": "This has been frustrating. My cookware set stopped working 45 days in. It's still under warranty and the manufacturer is slow to respond. Can you help with a refund since you're the seller? Please resolve this quickly.",
+    "requested_refund": 397.25,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "kitchen",
+      "product": "cookware set",
+      "length_bucket": "long",
+      "tone": "frustrated",
+      "days_since_delivery": 45,
+      "amount_bucket": "300-600",
+      "email_char_len": 218,
+      "email_word_len": 37
+    }
+  },
+  {
+    "ticket_id": "T-1019",
+    "email_text": "This has been frustrating. I ordered size medium for the running shoes but the actual fit is way off. Based on the size chart I should have been fine. Requesting refund. Please resolve this quickly.",
+    "requested_refund": 68.29,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "running shoes",
+      "length_bucket": "long",
+      "tone": "frustrated",
+      "days_since_delivery": 3,
+      "amount_bucket": "20-75",
+      "email_char_len": 198,
+      "email_word_len": 35
+    }
+  },
+  {
+    "ticket_id": "T-1020",
+    "email_text": "This is unacceptable. My air purifier arrived damaged. I expect a prompt resolution.",
+    "requested_refund": 56.29,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "home",
+      "product": "air purifier",
+      "length_bucket": "short",
+      "tone": "angry",
+      "days_since_delivery": 5,
+      "amount_bucket": "20-75",
+      "email_char_len": 84,
+      "email_word_len": 13
+    }
+  },
+  {
+    "ticket_id": "T-1021",
+    "email_text": "This has been frustrating. I purchased a tablet (order ORD-62296) 35 days ago. Initially everything was fine but over the past few days I've noticed weird humming noise. Today it stopped working entirely. I tried different outlets and all the standard troubleshooting. This is clearly defective. I'd prefer a refund over a replacement because I need the money for an alternative. Please resolve this quickly.",
+    "requested_refund": 59.21,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "xlong",
+      "tone": "frustrated",
+      "days_since_delivery": 35,
+      "amount_bucket": "20-75",
+      "email_char_len": 408,
+      "email_word_len": 65
+    }
+  },
+  {
+    "ticket_id": "T-1022",
+    "email_text": "Order ORD-12757. I ordered a vacuum cleaner and received something completely different. The SKU on the product doesn't match the SKU on my invoice. I haven't opened anything beyond the outer packaging. I'd like a refund and I don't want to deal with shipping a replacement because the last two orders had issues too. Please confirm.",
+    "requested_refund": 23.52,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "home",
+      "product": "vacuum cleaner",
+      "length_bucket": "xlong",
+      "tone": "neutral",
+      "days_since_delivery": 3,
+      "amount_bucket": "20-75",
+      "email_char_len": 333,
+      "email_word_len": 56
+    }
+  },
+  {
+    "ticket_id": "T-1023",
+    "email_text": "The camping tent was supposed to arrive by 3 days ago but came 3 days late. I no longer need it.",
+    "requested_refund": 8.43,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "outdoor",
+      "product": "camping tent",
+      "length_bucket": "med",
+      "tone": "neutral",
+      "days_since_delivery": 3,
+      "amount_bucket": "5-20",
+      "email_char_len": 96,
+      "email_word_len": 21
+    }
+  },
+  {
+    "ticket_id": "T-1024",
+    "email_text": "Hope you're well. The blender I received is missing critical components. Refund please. Appreciate your help.",
+    "requested_refund": 49.66,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "blender",
+      "length_bucket": "med",
+      "tone": "calm",
+      "days_since_delivery": 15,
+      "amount_bucket": "20-75",
+      "email_char_len": 109,
+      "email_word_len": 16
+    }
+  },
+  {
+    "ticket_id": "T-1025",
+    "email_text": "I'm not sure how to handle this. I bought the smartwatch assuming it would work with my existing setup. The product description implied broad compatibility but in practice it only works with a specific adapter which I don't own and don't plan to buy. This wasn't clear from the listing. I feel the description was misleading and I'd like a refund. Let me know what to do.",
+    "requested_refund": 6.45,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "smartwatch",
+      "length_bucket": "xlong",
+      "tone": "confused",
+      "days_since_delivery": 8,
+      "amount_bucket": "5-20",
+      "email_char_len": 371,
+      "email_word_len": 67
+    }
+  },
+  {
+    "ticket_id": "T-1026",
+    "email_text": "I'm not sure how to handle this. I've been a customer for years and this is the first time I've been this disappointed. The leather boots arrived 5 days ago and the quality is nowhere near what I expected. The stitching is visibly lower quality than in the product photos. I feel the listing was misleading. This is a quality complaint, not a damage complaint, but I want a refund. Let me know what to do.",
+    "requested_refund": 5.91,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "apparel",
+      "product": "leather boots",
+      "length_bucket": "xlong",
+      "tone": "confused",
+      "days_since_delivery": 5,
+      "amount_bucket": "5-20",
+      "email_char_len": 405,
+      "email_word_len": 76
+    }
+  },
+  {
+    "ticket_id": "T-1027",
+    "email_text": "This has been frustrating. I no longer want the smartwatch I ordered 60 days ago. Refund please. Please resolve this quickly.",
+    "requested_refund": 171.03,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "smartwatch",
+      "length_bucket": "med",
+      "tone": "frustrated",
+      "days_since_delivery": 60,
+      "amount_bucket": "150-300",
+      "email_char_len": 125,
+      "email_word_len": 21
+    }
+  },
+  {
+    "ticket_id": "T-1028",
+    "email_text": "The vacuum cleaner failed 250 days after purchase, still under warranty.",
+    "requested_refund": 329.37,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "home",
+      "product": "vacuum cleaner",
+      "length_bucket": "med",
+      "tone": "neutral",
+      "days_since_delivery": 250,
+      "amount_bucket": "300-600",
+      "email_char_len": 72,
+      "email_word_len": 11
+    }
+  },
+  {
+    "ticket_id": "T-1029",
+    "email_text": "This has been frustrating. The blender I ordered doesn't fit. Refund please. Please resolve this quickly.",
+    "requested_refund": 222.2,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "blender",
+      "length_bucket": "med",
+      "tone": "frustrated",
+      "days_since_delivery": 15,
+      "amount_bucket": "150-300",
+      "email_char_len": 105,
+      "email_word_len": 16
+    }
+  },
+  {
+    "ticket_id": "T-1030",
+    "email_text": "Hi support team, I'm writing about order ORD-69638. My ceramic bowl set was delivered 12 days ago. Upon opening, I noticed the handle broken off. I tried to use it anyway but it was unusable right away. The packaging was also in poor condition on arrival (the outer box had a large tear). Could you process a full refund? I still have all original packaging and photos of the damage. Thanks.",
+    "requested_refund": 144.49,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "ceramic bowl set",
+      "length_bucket": "xlong",
+      "tone": "neutral",
+      "days_since_delivery": 12,
+      "amount_bucket": "75-150",
+      "email_char_len": 391,
+      "email_word_len": 71
+    }
+  },
+  {
+    "ticket_id": "T-1031",
+    "email_text": "This has been frustrating. I purchased a leather boots (order ORD-17665) 7 days ago. Initially everything was fine but over the past few days I've noticed intermittent flickering. Today it stopped working entirely. I tried multiple factory resets and all the standard troubleshooting. This is clearly defective. I'd prefer a refund over a replacement because I need the money for an alternative. Please resolve this quickly.",
+    "requested_refund": 91.33,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "apparel",
+      "product": "leather boots",
+      "length_bucket": "xlong",
+      "tone": "frustrated",
+      "days_since_delivery": 7,
+      "amount_bucket": "75-150",
+      "email_char_len": 424,
+      "email_word_len": 66
+    }
+  },
+  {
+    "ticket_id": "T-1032",
+    "email_text": "You sent the wrong bluetooth speaker.",
+    "requested_refund": 575.82,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "bluetooth speaker",
+      "length_bucket": "short",
+      "tone": "neutral",
+      "days_since_delivery": 10,
+      "amount_bucket": "300-600",
+      "email_char_len": 37,
+      "email_word_len": 6
+    }
+  },
+  {
+    "ticket_id": "T-1033",
+    "email_text": "This has been frustrating. My espresso machine arrived 3 days late. Please resolve this quickly.",
+    "requested_refund": 320.39,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "espresso machine",
+      "length_bucket": "short",
+      "tone": "frustrated",
+      "days_since_delivery": 3,
+      "amount_bucket": "300-600",
+      "email_char_len": 96,
+      "email_word_len": 15
+    }
+  },
+  {
+    "ticket_id": "T-1034",
+    "email_text": "This is unacceptable. The toaster I received is missing critical components. Refund please. I expect a prompt resolution.",
+    "requested_refund": 324.6,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "med",
+      "tone": "angry",
+      "days_since_delivery": 2,
+      "amount_bucket": "300-600",
+      "email_char_len": 121,
+      "email_word_len": 18
+    }
+  },
+  {
+    "ticket_id": "T-1035",
+    "email_text": "Hope you're well. The tablet doesn't work with my existing hardware. Want a refund. Appreciate your help.",
+    "requested_refund": 104.68,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "med",
+      "tone": "calm",
+      "days_since_delivery": 8,
+      "amount_bucket": "75-150",
+      "email_char_len": 105,
+      "email_word_len": 17
+    }
+  },
+  {
+    "ticket_id": "T-1036",
+    "email_text": "The vacuum cleaner doesn't match the quality shown in product photos. Materials feel low-grade and the finish is uneven. Looks nothing like the listing.",
+    "requested_refund": 243.17,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "home",
+      "product": "vacuum cleaner",
+      "length_bucket": "long",
+      "tone": "neutral",
+      "days_since_delivery": 5,
+      "amount_bucket": "150-300",
+      "email_char_len": 152,
+      "email_word_len": 24
+    }
+  },
+  {
+    "ticket_id": "T-1037",
+    "email_text": "This is unacceptable. I no longer want the blender I ordered 35 days ago. Refund please. I expect a prompt resolution.",
+    "requested_refund": 71.33,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "blender",
+      "length_bucket": "med",
+      "tone": "angry",
+      "days_since_delivery": 35,
+      "amount_bucket": "20-75",
+      "email_char_len": 118,
+      "email_word_len": 21
+    }
+  },
+  {
+    "ticket_id": "T-1038",
+    "email_text": "This has been frustrating. My running shoes stopped working 250 days in. It's still under warranty and the manufacturer is slow to respond. Can you help with a refund since you're the seller? Please resolve this quickly.",
+    "requested_refund": 511.06,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "apparel",
+      "product": "running shoes",
+      "length_bucket": "long",
+      "tone": "frustrated",
+      "days_since_delivery": 250,
+      "amount_bucket": "300-600",
+      "email_char_len": 220,
+      "email_word_len": 37
+    }
+  },
+  {
+    "ticket_id": "T-1039",
+    "email_text": "I ordered size medium for the bedding set but the actual fit is way off. Based on the size chart I should have been fine. Requesting refund.",
+    "requested_refund": 83.66,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "home",
+      "product": "bedding set",
+      "length_bucket": "long",
+      "tone": "neutral",
+      "days_since_delivery": 6,
+      "amount_bucket": "75-150",
+      "email_char_len": 140,
+      "email_word_len": 27
+    }
+  },
+  {
+    "ticket_id": "T-1040",
+    "email_text": "This is unacceptable. I received my tablet on 5 days ago and when I opened the box the product was visibly damaged. There's a crack running along one side and the packaging looked tampered with. I'd like a refund please. I expect a prompt resolution.",
+    "requested_refund": 90.27,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "long",
+      "tone": "angry",
+      "days_since_delivery": 5,
+      "amount_bucket": "75-150",
+      "email_char_len": 250,
+      "email_word_len": 45
+    }
+  },
+  {
+    "ticket_id": "T-1041",
+    "email_text": "Hope you're well. I purchased a lamp set (order ORD-46265) 3 days ago. Initially everything was fine but over the past few days I've noticed intermittent flickering. Today it stopped working entirely. I tried multiple factory resets and all the standard troubleshooting. This is clearly defective. I'd prefer a refund over a replacement because I need the money for an alternative. Appreciate your help.",
+    "requested_refund": 14.51,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "home",
+      "product": "lamp set",
+      "length_bucket": "xlong",
+      "tone": "calm",
+      "days_since_delivery": 3,
+      "amount_bucket": "5-20",
+      "email_char_len": 403,
+      "email_word_len": 64
+    }
+  },
+  {
+    "ticket_id": "T-1042",
+    "email_text": "This has been frustrating. My order was supposed to be a stand mixer but when it arrived 6 days ago it was a different product entirely. The packing slip shows the right item but the box contained something else. Please refund or send the correct item. Please resolve this quickly.",
+    "requested_refund": 60.77,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "stand mixer",
+      "length_bucket": "long",
+      "tone": "frustrated",
+      "days_since_delivery": 6,
+      "amount_bucket": "20-75",
+      "email_char_len": 281,
+      "email_word_len": 50
+    }
+  },
+  {
+    "ticket_id": "T-1043",
+    "email_text": "My bedding set arrived 3 days late.",
+    "requested_refund": 50.01,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "home",
+      "product": "bedding set",
+      "length_bucket": "short",
+      "tone": "neutral",
+      "days_since_delivery": 3,
+      "amount_bucket": "20-75",
+      "email_char_len": 35,
+      "email_word_len": 7
+    }
+  },
+  {
+    "ticket_id": "T-1044",
+    "email_text": "The leather boots I received is missing critical components. Refund please.",
+    "requested_refund": 142.42,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "apparel",
+      "product": "leather boots",
+      "length_bucket": "med",
+      "tone": "neutral",
+      "days_since_delivery": 9,
+      "amount_bucket": "75-150",
+      "email_char_len": 75,
+      "email_word_len": 11
+    }
+  },
+  {
+    "ticket_id": "T-1045",
+    "email_text": "The wireless headphones doesn't work with my existing hardware. Want a refund.",
+    "requested_refund": 565.24,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "wireless headphones",
+      "length_bucket": "med",
+      "tone": "neutral",
+      "days_since_delivery": 15,
+      "amount_bucket": "300-600",
+      "email_char_len": 78,
+      "email_word_len": 12
+    }
+  },
+  {
+    "ticket_id": "T-1046",
+    "email_text": "This has been frustrating. The smartwatch feels much cheaper than described. Requesting refund. Please resolve this quickly.",
+    "requested_refund": 7.69,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "electronics",
+      "product": "smartwatch",
+      "length_bucket": "med",
+      "tone": "frustrated",
+      "days_since_delivery": 28,
+      "amount_bucket": "5-20",
+      "email_char_len": 124,
+      "email_word_len": 17
+    }
+  },
+  {
+    "ticket_id": "T-1047",
+    "email_text": "This has been frustrating. I ordered the smartwatch 8 days ago but have decided I don't need it anymore. The product is unopened and in original packaging. Please process a refund. Please resolve this quickly.",
+    "requested_refund": 280.83,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "smartwatch",
+      "length_bucket": "long",
+      "tone": "frustrated",
+      "days_since_delivery": 8,
+      "amount_bucket": "150-300",
+      "email_char_len": 209,
+      "email_word_len": 35
+    }
+  },
+  {
+    "ticket_id": "T-1048",
+    "email_text": "Hope you're well. Bought the wireless headphones from you 150 days ago. It failed last week. The manufacturer warranty is theoretically active but they're not responding to my support tickets. As the seller, can you process a refund and handle the warranty claim yourselves? I've attached photos and the failure mode is clearly covered under warranty terms. Appreciate your help.",
+    "requested_refund": 32.26,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "electronics",
+      "product": "wireless headphones",
+      "length_bucket": "xlong",
+      "tone": "calm",
+      "days_since_delivery": 150,
+      "amount_bucket": "20-75",
+      "email_char_len": 379,
+      "email_word_len": 60
+    }
+  },
+  {
+    "ticket_id": "T-1049",
+    "email_text": "Hope you're well. I ordered size large for the winter jacket but the actual fit is way off. Based on the size chart I should have been fine. Requesting refund. Appreciate your help.",
+    "requested_refund": 101.34,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "winter jacket",
+      "length_bucket": "long",
+      "tone": "calm",
+      "days_since_delivery": 3,
+      "amount_bucket": "75-150",
+      "email_char_len": 181,
+      "email_word_len": 33
+    }
+  },
+  {
+    "ticket_id": "T-1050",
+    "email_text": "I received my bedding set on 2 days ago and when I opened the box the product was visibly damaged. There's a crack running along one side and the packaging looked tampered with. I'd like a refund please.",
+    "requested_refund": 88.39,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "home",
+      "product": "bedding set",
+      "length_bucket": "long",
+      "tone": "neutral",
+      "days_since_delivery": 2,
+      "amount_bucket": "75-150",
+      "email_char_len": 203,
+      "email_word_len": 38
+    }
+  },
+  {
+    "ticket_id": "T-1051",
+    "email_text": "Hope you're well. I purchased a toaster (order ORD-77033) 14 days ago. Initially everything was fine but over the past few days I've noticed intermittent flickering. Today it stopped working entirely. I tried multiple factory resets and all the standard troubleshooting. This is clearly defective. I'd prefer a refund over a replacement because I need the money for an alternative. Appreciate your help.",
+    "requested_refund": 240.93,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "xlong",
+      "tone": "calm",
+      "days_since_delivery": 14,
+      "amount_bucket": "150-300",
+      "email_char_len": 403,
+      "email_word_len": 63
+    }
+  },
+  {
+    "ticket_id": "T-1052",
+    "email_text": "Hope you're well. I ordered a winter jacket but received a completely different item. Please refund. Appreciate your help.",
+    "requested_refund": 150.25,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "winter jacket",
+      "length_bucket": "med",
+      "tone": "calm",
+      "days_since_delivery": 1,
+      "amount_bucket": "150-300",
+      "email_char_len": 122,
+      "email_word_len": 19
+    }
+  },
+  {
+    "ticket_id": "T-1053",
+    "email_text": "I placed order ORD-26334 specifically because of the delivery guarantee. The running shoes was supposed to arrive about 1 weeks ago but actually arrived 7 days late. Because of this delay I had to buy backup supplies elsewhere for my home project. I don't want the product anymore and I'd like a full refund including the expedited shipping fee I paid.",
+    "requested_refund": 394.17,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "running shoes",
+      "length_bucket": "xlong",
+      "tone": "neutral",
+      "days_since_delivery": 7,
+      "amount_bucket": "300-600",
+      "email_char_len": 352,
+      "email_word_len": 61
+    }
+  },
+  {
+    "ticket_id": "T-1054",
+    "email_text": "I'm not sure how to handle this. I got my lamp set 9 days ago and when I tried to assemble it I realized several parts are missing. The manual lists screws and the assembly wrench but the box only contained some of them. Can't use it as-is. Let me know what to do.",
+    "requested_refund": 254.58,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "home",
+      "product": "lamp set",
+      "length_bucket": "long",
+      "tone": "confused",
+      "days_since_delivery": 9,
+      "amount_bucket": "150-300",
+      "email_char_len": 264,
+      "email_word_len": 54
+    }
+  },
+  {
+    "ticket_id": "T-1055",
+    "email_text": "I'm not sure how to handle this. I bought the wireless headphones assuming it would work with my existing setup. The product description implied broad compatibility but in practice it only works with USB-C which I don't own and don't plan to buy. This wasn't clear from the listing. I feel the description was misleading and I'd like a refund. Let me know what to do.",
+    "requested_refund": 470.73,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "wireless headphones",
+      "length_bucket": "xlong",
+      "tone": "confused",
+      "days_since_delivery": 8,
+      "amount_bucket": "300-600",
+      "email_char_len": 367,
+      "email_word_len": 66
+    }
+  },
+  {
+    "ticket_id": "T-1056",
+    "email_text": "This has been frustrating. The gaming console doesn't match the quality shown in product photos. Materials feel low-grade and the finish is uneven. Looks nothing like the listing. Please resolve this quickly.",
+    "requested_refund": 482.0,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "electronics",
+      "product": "gaming console",
+      "length_bucket": "long",
+      "tone": "frustrated",
+      "days_since_delivery": 28,
+      "amount_bucket": "300-600",
+      "email_char_len": 208,
+      "email_word_len": 32
+    }
+  },
+  {
+    "ticket_id": "T-1057",
+    "email_text": "This has been frustrating. Ordered the vacuum cleaner 60 days ago on order ORD-32241. Since then my situation changed and I don't need it anymore. The box is still sealed. I know your policy is strict about change of mind returns but I'm hoping you can make an exception given I'm a long-time customer with no prior returns. Please resolve this quickly.",
+    "requested_refund": 269.06,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "home",
+      "product": "vacuum cleaner",
+      "length_bucket": "xlong",
+      "tone": "frustrated",
+      "days_since_delivery": 60,
+      "amount_bucket": "150-300",
+      "email_char_len": 353,
+      "email_word_len": 62
+    }
+  },
+  {
+    "ticket_id": "T-1058",
+    "email_text": "My gaming console stopped working 80 days in. It's still under warranty and the manufacturer is slow to respond. Can you help with a refund since you're the seller?",
+    "requested_refund": 91.85,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "electronics",
+      "product": "gaming console",
+      "length_bucket": "long",
+      "tone": "neutral",
+      "days_since_delivery": 80,
+      "amount_bucket": "75-150",
+      "email_char_len": 164,
+      "email_word_len": 29
+    }
+  },
+  {
+    "ticket_id": "T-1059",
+    "email_text": "This has been frustrating. stand mixer doesn't fit. Please resolve this quickly.",
+    "requested_refund": 554.92,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "stand mixer",
+      "length_bucket": "short",
+      "tone": "frustrated",
+      "days_since_delivery": 15,
+      "amount_bucket": "300-600",
+      "email_char_len": 80,
+      "email_word_len": 12
+    }
+  },
+  {
+    "ticket_id": "T-1060",
+    "email_text": "I'm not sure how to handle this. My leather boots was delivered 12 days ago and has a visible dent on the side. Requesting a refund. Let me know what to do.",
+    "requested_refund": 186.6,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "apparel",
+      "product": "leather boots",
+      "length_bucket": "med",
+      "tone": "confused",
+      "days_since_delivery": 12,
+      "amount_bucket": "150-300",
+      "email_char_len": 156,
+      "email_word_len": 32
+    }
+  },
+  {
+    "ticket_id": "T-1061",
+    "email_text": "This has been frustrating. I purchased a toaster (order ORD-83060) 7 days ago. Initially everything was fine but over the past few days I've noticed intermittent flickering. Today it stopped working entirely. I tried multiple factory resets and all the standard troubleshooting. This is clearly defective. I'd prefer a refund over a replacement because I need the money for an alternative. Please resolve this quickly.",
+    "requested_refund": 439.36,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "xlong",
+      "tone": "frustrated",
+      "days_since_delivery": 7,
+      "amount_bucket": "300-600",
+      "email_char_len": 418,
+      "email_word_len": 65
+    }
+  },
+  {
+    "ticket_id": "T-1062",
+    "email_text": "This has been frustrating. Order ORD-88047. I ordered a toaster and received something completely different. The SKU on the product doesn't match the SKU on my invoice. I haven't opened anything beyond the outer packaging. I'd like a refund and I don't want to deal with shipping a replacement because the last two orders had issues too. Please confirm. Please resolve this quickly.",
+    "requested_refund": 596.37,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "xlong",
+      "tone": "frustrated",
+      "days_since_delivery": 10,
+      "amount_bucket": "300-600",
+      "email_char_len": 382,
+      "email_word_len": 63
+    }
+  },
+  {
+    "ticket_id": "T-1063",
+    "email_text": "This is unacceptable. I placed order ORD-72216 specifically because of the delivery guarantee. The vacuum cleaner was supposed to arrive about 1 weeks ago but actually arrived 10 days late. Because of this delay I had to buy backup supplies elsewhere for my home project. I don't want the product anymore and I'd like a full refund including the expedited shipping fee I paid. I expect a prompt resolution.",
+    "requested_refund": 60.9,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "home",
+      "product": "vacuum cleaner",
+      "length_bucket": "xlong",
+      "tone": "angry",
+      "days_since_delivery": 10,
+      "amount_bucket": "20-75",
+      "email_char_len": 406,
+      "email_word_len": 69
+    }
+  },
+  {
+    "ticket_id": "T-1064",
+    "email_text": "Hope you're well. The tablet I received is missing critical components. Refund please. Appreciate your help.",
+    "requested_refund": 35.1,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "med",
+      "tone": "calm",
+      "days_since_delivery": 15,
+      "amount_bucket": "20-75",
+      "email_char_len": 108,
+      "email_word_len": 16
+    }
+  },
+  {
+    "ticket_id": "T-1065",
+    "email_text": "Hope you're well. I assumed the smartwatch would work with my current setup but turns out it requires USB-C which I don't have. The product description was misleading about compatibility. Appreciate your help.",
+    "requested_refund": 324.17,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "smartwatch",
+      "length_bucket": "long",
+      "tone": "calm",
+      "days_since_delivery": 15,
+      "amount_bucket": "300-600",
+      "email_char_len": 209,
+      "email_word_len": 33
+    }
+  },
+  {
+    "ticket_id": "T-1066",
+    "email_text": "This has been frustrating. The winter jacket feels much cheaper than described. Requesting refund. Please resolve this quickly.",
+    "requested_refund": 211.14,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "apparel",
+      "product": "winter jacket",
+      "length_bucket": "med",
+      "tone": "frustrated",
+      "days_since_delivery": 5,
+      "amount_bucket": "150-300",
+      "email_char_len": 127,
+      "email_word_len": 18
+    }
+  },
+  {
+    "ticket_id": "T-1067",
+    "email_text": "This has been frustrating. Changed my mind, want refund for leather boots. Please resolve this quickly.",
+    "requested_refund": 285.73,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "leather boots",
+      "length_bucket": "short",
+      "tone": "frustrated",
+      "days_since_delivery": 45,
+      "amount_bucket": "150-300",
+      "email_char_len": 103,
+      "email_word_len": 16
+    }
+  },
+  {
+    "ticket_id": "T-1068",
+    "email_text": "I'm not sure how to handle this. Bought the camping tent from you 45 days ago. It failed last week. The manufacturer warranty is theoretically active but they're not responding to my support tickets. As the seller, can you process a refund and handle the warranty claim yourselves? I've attached photos and the failure mode is clearly covered under warranty terms. Let me know what to do.",
+    "requested_refund": 97.4,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "outdoor",
+      "product": "camping tent",
+      "length_bucket": "xlong",
+      "tone": "confused",
+      "days_since_delivery": 45,
+      "amount_bucket": "75-150",
+      "email_char_len": 388,
+      "email_word_len": 67
+    }
+  },
+  {
+    "ticket_id": "T-1069",
+    "email_text": "I'm not sure how to handle this. The bedding set I ordered doesn't fit. Refund please. Let me know what to do.",
+    "requested_refund": 107.69,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "home",
+      "product": "bedding set",
+      "length_bucket": "med",
+      "tone": "confused",
+      "days_since_delivery": 6,
+      "amount_bucket": "75-150",
+      "email_char_len": 110,
+      "email_word_len": 22
+    }
+  },
+  {
+    "ticket_id": "T-1070",
+    "email_text": "This has been frustrating. Hi support team, I'm writing about order ORD-80008. My bluetooth speaker was delivered 12 days ago. Upon opening, I noticed a crack along the front. I tried to use it anyway but it still wouldn't work properly. The packaging was also in poor condition on arrival (the outer box had a large tear). Could you process a full refund? I still have all original packaging and photos of the damage. Thanks. Please resolve this quickly.",
+    "requested_refund": 73.94,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "electronics",
+      "product": "bluetooth speaker",
+      "length_bucket": "xlong",
+      "tone": "frustrated",
+      "days_since_delivery": 12,
+      "amount_bucket": "20-75",
+      "email_char_len": 455,
+      "email_word_len": 79
+    }
+  },
+  {
+    "ticket_id": "T-1071",
+    "email_text": "winter jacket stopped working after 2 days.",
+    "requested_refund": 67.68,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "apparel",
+      "product": "winter jacket",
+      "length_bucket": "short",
+      "tone": "neutral",
+      "days_since_delivery": 22,
+      "amount_bucket": "20-75",
+      "email_char_len": 43,
+      "email_word_len": 7
+    }
+  },
+  {
+    "ticket_id": "T-1072",
+    "email_text": "Hope you're well. Order ORD-59692. I ordered a tablet and received something completely different. The SKU on the product doesn't match the SKU on my invoice. I haven't opened anything beyond the outer packaging. I'd like a refund and I don't want to deal with shipping a replacement because the last two orders had issues too. Please confirm. Appreciate your help.",
+    "requested_refund": 199.03,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "xlong",
+      "tone": "calm",
+      "days_since_delivery": 3,
+      "amount_bucket": "150-300",
+      "email_char_len": 365,
+      "email_word_len": 61
+    }
+  },
+  {
+    "ticket_id": "T-1073",
+    "email_text": "My order was guaranteed for about 1 weeks ago but the leather boots arrived 10 days after that. By the time it got here I had bought an alternative locally. I'd like to return it for a full refund.",
+    "requested_refund": 16.24,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "leather boots",
+      "length_bucket": "long",
+      "tone": "neutral",
+      "days_since_delivery": 10,
+      "amount_bucket": "5-20",
+      "email_char_len": 197,
+      "email_word_len": 39
+    }
+  },
+  {
+    "ticket_id": "T-1074",
+    "email_text": "smartwatch came with missing parts.",
+    "requested_refund": 30.96,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "electronics",
+      "product": "smartwatch",
+      "length_bucket": "short",
+      "tone": "neutral",
+      "days_since_delivery": 2,
+      "amount_bucket": "20-75",
+      "email_char_len": 35,
+      "email_word_len": 5
+    }
+  },
+  {
+    "ticket_id": "T-1075",
+    "email_text": "I'm not sure how to handle this. The smartwatch doesn't work with my existing hardware. Want a refund. Let me know what to do.",
+    "requested_refund": 584.33,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "smartwatch",
+      "length_bucket": "med",
+      "tone": "confused",
+      "days_since_delivery": 4,
+      "amount_bucket": "300-600",
+      "email_char_len": 126,
+      "email_word_len": 24
+    }
+  },
+  {
+    "ticket_id": "T-1076",
+    "email_text": "This is unacceptable. The running shoes feels much cheaper than described. Requesting refund. I expect a prompt resolution.",
+    "requested_refund": 73.06,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "apparel",
+      "product": "running shoes",
+      "length_bucket": "med",
+      "tone": "angry",
+      "days_since_delivery": 5,
+      "amount_bucket": "20-75",
+      "email_char_len": 123,
+      "email_word_len": 18
+    }
+  },
+  {
+    "ticket_id": "T-1077",
+    "email_text": "I'm not sure how to handle this. Ordered the gaming console 20 days ago on order ORD-92213. Since then my situation changed and I don't need it anymore. The box is still sealed. I know your policy is strict about change of mind returns but I'm hoping you can make an exception given I'm a long-time customer with no prior returns. Let me know what to do.",
+    "requested_refund": 13.88,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "gaming console",
+      "length_bucket": "xlong",
+      "tone": "confused",
+      "days_since_delivery": 20,
+      "amount_bucket": "5-20",
+      "email_char_len": 354,
+      "email_word_len": 67
+    }
+  },
+  {
+    "ticket_id": "T-1078",
+    "email_text": "This is unacceptable. My toaster stopped working 45 days in. It's still under warranty and the manufacturer is slow to respond. Can you help with a refund since you're the seller? I expect a prompt resolution.",
+    "requested_refund": 534.79,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "long",
+      "tone": "angry",
+      "days_since_delivery": 45,
+      "amount_bucket": "300-600",
+      "email_char_len": 209,
+      "email_word_len": 36
+    }
+  },
+  {
+    "ticket_id": "T-1079",
+    "email_text": "This is unacceptable. running shoes doesn't fit. I expect a prompt resolution.",
+    "requested_refund": 17.74,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "running shoes",
+      "length_bucket": "short",
+      "tone": "angry",
+      "days_since_delivery": 10,
+      "amount_bucket": "5-20",
+      "email_char_len": 78,
+      "email_word_len": 12
+    }
+  },
+  {
+    "ticket_id": "T-1080",
+    "email_text": "I'm not sure how to handle this. I received my leather boots on about 3 weeks ago and when I opened the box the product was visibly damaged. There's a crack running along one side and the packaging looked tampered with. I'd like a refund please. Let me know what to do.",
+    "requested_refund": 43.95,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "apparel",
+      "product": "leather boots",
+      "length_bucket": "long",
+      "tone": "confused",
+      "days_since_delivery": 25,
+      "amount_bucket": "20-75",
+      "email_char_len": 269,
+      "email_word_len": 52
+    }
+  },
+  {
+    "ticket_id": "T-1081",
+    "email_text": "I'm not sure how to handle this. I purchased a bicycle (order ORD-42177) 22 days ago. Initially everything was fine but over the past few days I've noticed intermittent flickering. Today it stopped working entirely. I tried multiple factory resets and all the standard troubleshooting. This is clearly defective. I'd prefer a refund over a replacement because I need the money for an alternative. Let me know what to do.",
+    "requested_refund": 380.52,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "outdoor",
+      "product": "bicycle",
+      "length_bucket": "xlong",
+      "tone": "confused",
+      "days_since_delivery": 22,
+      "amount_bucket": "300-600",
+      "email_char_len": 420,
+      "email_word_len": 70
+    }
+  },
+  {
+    "ticket_id": "T-1082",
+    "email_text": "This has been frustrating. Order ORD-59674. I ordered a tablet and received something completely different. The SKU on the product doesn't match the SKU on my invoice. I haven't opened anything beyond the outer packaging. I'd like a refund and I don't want to deal with shipping a replacement because the last two orders had issues too. Please confirm. Please resolve this quickly.",
+    "requested_refund": 483.1,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "xlong",
+      "tone": "frustrated",
+      "days_since_delivery": 10,
+      "amount_bucket": "300-600",
+      "email_char_len": 381,
+      "email_word_len": 63
+    }
+  },
+  {
+    "ticket_id": "T-1083",
+    "email_text": "Hope you're well. I placed order ORD-43862 specifically because of the delivery guarantee. The stand mixer was supposed to arrive 5 days ago but actually arrived 5 days late. Because of this delay I had to buy backup supplies elsewhere for my home project. I don't want the product anymore and I'd like a full refund including the expedited shipping fee I paid. Appreciate your help.",
+    "requested_refund": 181.82,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "stand mixer",
+      "length_bucket": "xlong",
+      "tone": "calm",
+      "days_since_delivery": 5,
+      "amount_bucket": "150-300",
+      "email_char_len": 383,
+      "email_word_len": 66
+    }
+  },
+  {
+    "ticket_id": "T-1084",
+    "email_text": "This is unacceptable. I got my tablet 2 days ago and when I tried to assemble it I realized several parts are missing. The manual lists screws and the assembly wrench but the box only contained some of them. Can't use it as-is. I expect a prompt resolution.",
+    "requested_refund": 584.42,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "long",
+      "tone": "angry",
+      "days_since_delivery": 2,
+      "amount_bucket": "300-600",
+      "email_char_len": 257,
+      "email_word_len": 48
+    }
+  },
+  {
+    "ticket_id": "T-1085",
+    "email_text": "This is unacceptable. I bought the leather boots assuming it would work with my existing setup. The product description implied broad compatibility but in practice it only works with a specific adapter which I don't own and don't plan to buy. This wasn't clear from the listing. I feel the description was misleading and I'd like a refund. I expect a prompt resolution.",
+    "requested_refund": 246.89,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "apparel",
+      "product": "leather boots",
+      "length_bucket": "xlong",
+      "tone": "angry",
+      "days_since_delivery": 8,
+      "amount_bucket": "150-300",
+      "email_char_len": 369,
+      "email_word_len": 63
+    }
+  },
+  {
+    "ticket_id": "T-1086",
+    "email_text": "Hope you're well. stand mixer quality is poor. Appreciate your help.",
+    "requested_refund": 253.77,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "kitchen",
+      "product": "stand mixer",
+      "length_bucket": "short",
+      "tone": "calm",
+      "days_since_delivery": 12,
+      "amount_bucket": "150-300",
+      "email_char_len": 68,
+      "email_word_len": 11
+    }
+  },
+  {
+    "ticket_id": "T-1087",
+    "email_text": "I'm not sure how to handle this. I ordered the air purifier 60 days ago but have decided I don't need it anymore. The product is unopened and in original packaging. Please process a refund. Let me know what to do.",
+    "requested_refund": 101.39,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "home",
+      "product": "air purifier",
+      "length_bucket": "long",
+      "tone": "confused",
+      "days_since_delivery": 60,
+      "amount_bucket": "75-150",
+      "email_char_len": 213,
+      "email_word_len": 41
+    }
+  },
+  {
+    "ticket_id": "T-1088",
+    "email_text": "This has been frustrating. My gaming console stopped working 45 days in. It's still under warranty and the manufacturer is slow to respond. Can you help with a refund since you're the seller? Please resolve this quickly.",
+    "requested_refund": 37.36,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "electronics",
+      "product": "gaming console",
+      "length_bucket": "long",
+      "tone": "frustrated",
+      "days_since_delivery": 45,
+      "amount_bucket": "20-75",
+      "email_char_len": 220,
+      "email_word_len": 37
+    }
+  },
+  {
+    "ticket_id": "T-1089",
+    "email_text": "I'm not sure how to handle this. The wireless headphones I ordered doesn't fit. Refund please. Let me know what to do.",
+    "requested_refund": 592.98,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "electronics",
+      "product": "wireless headphones",
+      "length_bucket": "med",
+      "tone": "confused",
+      "days_since_delivery": 10,
+      "amount_bucket": "300-600",
+      "email_char_len": 118,
+      "email_word_len": 22
+    }
+  },
+  {
+    "ticket_id": "T-1090",
+    "email_text": "Hope you're well. My toaster was delivered 5 days ago and has a visible dent on the side. Requesting a refund. Appreciate your help.",
+    "requested_refund": 88.46,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "med",
+      "tone": "calm",
+      "days_since_delivery": 5,
+      "amount_bucket": "75-150",
+      "email_char_len": 132,
+      "email_word_len": 24
+    }
+  },
+  {
+    "ticket_id": "T-1091",
+    "email_text": "tablet stopped working after 2 days.",
+    "requested_refund": 127.31,
+    "meta": {
+      "issue": "defective",
+      "policy_fit": "damage_yes",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "short",
+      "tone": "neutral",
+      "days_since_delivery": 35,
+      "amount_bucket": "75-150",
+      "email_char_len": 36,
+      "email_word_len": 6
+    }
+  },
+  {
+    "ticket_id": "T-1092",
+    "email_text": "This is unacceptable. You sent the wrong toaster. I expect a prompt resolution.",
+    "requested_refund": 221.81,
+    "meta": {
+      "issue": "wrong_item",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "toaster",
+      "length_bucket": "short",
+      "tone": "angry",
+      "days_since_delivery": 6,
+      "amount_bucket": "150-300",
+      "email_char_len": 79,
+      "email_word_len": 13
+    }
+  },
+  {
+    "ticket_id": "T-1093",
+    "email_text": "I'm not sure how to handle this. My order was guaranteed for 3 days ago but the espresso machine arrived 3 days after that. By the time it got here I had bought an alternative locally. I'd like to return it for a full refund. Let me know what to do.",
+    "requested_refund": 11.01,
+    "meta": {
+      "issue": "late",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "espresso machine",
+      "length_bucket": "long",
+      "tone": "confused",
+      "days_since_delivery": 3,
+      "amount_bucket": "5-20",
+      "email_char_len": 249,
+      "email_word_len": 51
+    }
+  },
+  {
+    "ticket_id": "T-1094",
+    "email_text": "This is unacceptable. The cookware set I received is missing critical components. Refund please. I expect a prompt resolution.",
+    "requested_refund": 19.91,
+    "meta": {
+      "issue": "missing_parts",
+      "policy_fit": "damage_yes",
+      "category": "kitchen",
+      "product": "cookware set",
+      "length_bucket": "med",
+      "tone": "angry",
+      "days_since_delivery": 9,
+      "amount_bucket": "5-20",
+      "email_char_len": 126,
+      "email_word_len": 19
+    }
+  },
+  {
+    "ticket_id": "T-1095",
+    "email_text": "This is unacceptable. The bicycle doesn't work with my existing hardware. Want a refund. I expect a prompt resolution.",
+    "requested_refund": 286.28,
+    "meta": {
+      "issue": "incompatible",
+      "policy_fit": "damage_no",
+      "category": "outdoor",
+      "product": "bicycle",
+      "length_bucket": "med",
+      "tone": "angry",
+      "days_since_delivery": 25,
+      "amount_bucket": "150-300",
+      "email_char_len": 118,
+      "email_word_len": 19
+    }
+  },
+  {
+    "ticket_id": "T-1096",
+    "email_text": "This is unacceptable. gaming console quality is poor. I expect a prompt resolution.",
+    "requested_refund": 54.4,
+    "meta": {
+      "issue": "quality",
+      "policy_fit": "damage_maybe",
+      "category": "electronics",
+      "product": "gaming console",
+      "length_bucket": "short",
+      "tone": "angry",
+      "days_since_delivery": 5,
+      "amount_bucket": "20-75",
+      "email_char_len": 83,
+      "email_word_len": 13
+    }
+  },
+  {
+    "ticket_id": "T-1097",
+    "email_text": "This has been frustrating. I no longer want the ceramic bowl set I ordered 60 days ago. Refund please. Please resolve this quickly.",
+    "requested_refund": 7.35,
+    "meta": {
+      "issue": "change_of_mind",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "ceramic bowl set",
+      "length_bucket": "med",
+      "tone": "frustrated",
+      "days_since_delivery": 60,
+      "amount_bucket": "5-20",
+      "email_char_len": 131,
+      "email_word_len": 23
+    }
+  },
+  {
+    "ticket_id": "T-1098",
+    "email_text": "Hope you're well. Bought the bicycle from you 45 days ago. It failed last week. The manufacturer warranty is theoretically active but they're not responding to my support tickets. As the seller, can you process a refund and handle the warranty claim yourselves? I've attached photos and the failure mode is clearly covered under warranty terms. Appreciate your help.",
+    "requested_refund": 35.85,
+    "meta": {
+      "issue": "warranty",
+      "policy_fit": "damage_maybe",
+      "category": "outdoor",
+      "product": "bicycle",
+      "length_bucket": "xlong",
+      "tone": "calm",
+      "days_since_delivery": 45,
+      "amount_bucket": "20-75",
+      "email_char_len": 366,
+      "email_word_len": 59
+    }
+  },
+  {
+    "ticket_id": "T-1099",
+    "email_text": "Hope you're well. The blender I ordered doesn't fit. Refund please. Appreciate your help.",
+    "requested_refund": 167.22,
+    "meta": {
+      "issue": "sizing",
+      "policy_fit": "damage_no",
+      "category": "kitchen",
+      "product": "blender",
+      "length_bucket": "med",
+      "tone": "calm",
+      "days_since_delivery": 6,
+      "amount_bucket": "150-300",
+      "email_char_len": 89,
+      "email_word_len": 14
+    }
+  },
+  {
+    "ticket_id": "T-1100",
+    "email_text": "My tablet was delivered 2 days ago and has a visible dent on the side. Requesting a refund.",
+    "requested_refund": 63.59,
+    "meta": {
+      "issue": "damaged",
+      "policy_fit": "damage_yes",
+      "category": "electronics",
+      "product": "tablet",
+      "length_bucket": "med",
+      "tone": "neutral",
+      "days_since_delivery": 2,
+      "amount_bucket": "20-75",
+      "email_char_len": 91,
+      "email_word_len": 18
+    }
+  }
+]

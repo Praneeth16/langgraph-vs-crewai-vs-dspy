@@ -1,0 +1,511 @@
+{
+  "rows": [
+    {
+      "ticket_id": "T-1051",
+      "latency_s": 2.083,
+      "prompt": 353,
+      "completion": 25,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: The item is defective and the request is within the 30-day refund window.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1052",
+      "latency_s": 1.415,
+      "prompt": 291,
+      "completion": 24,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer received the wrong item, which is not covered by the damaged items policy.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1053",
+      "latency_s": 0.792,
+      "prompt": 342,
+      "completion": 22,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The policy only covers damaged items, not late deliveries or change of mind.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1054",
+      "latency_s": 1.049,
+      "prompt": 331,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Missing parts prevent assembly and use, which falls under the \"damaged items\" clause.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1055",
+      "latency_s": 1.237,
+      "prompt": 349,
+      "completion": 28,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer claims the product description was misleading regarding compatibility, which is not covered by the damaged items policy.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1056",
+      "latency_s": 1.068,
+      "prompt": 306,
+      "completion": 26,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: The customer describes a discrepancy in quality and finish, which can be interpreted as damage or defect.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1057",
+      "latency_s": 2.322,
+      "prompt": 349,
+      "completion": 26,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: Customer is requesting a return due to change of mind outside the 30-day window.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1058",
+      "latency_s": 3.177,
+      "prompt": 303,
+      "completion": 32,
+      "predicted_eligible": false,
+      "true_eligible": true,
+      "correct": false,
+      "raw": "reasoning: The item is not reported as damaged upon arrival, and the 30-day refund window for damaged items has passed.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1059",
+      "latency_s": 1.891,
+      "prompt": 282,
+      "completion": 30,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer's issue is that the item does not fit, which is not covered by the damaged items policy.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1060",
+      "latency_s": 5.057,
+      "prompt": 306,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Item is damaged and within the 30-day window. Damage clause applies.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1061",
+      "latency_s": 5.126,
+      "prompt": 351,
+      "completion": 25,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: The item is defective and the request is within the 30-day refund window.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1062",
+      "latency_s": 2.541,
+      "prompt": 350,
+      "completion": 22,
+      "predicted_eligible": true,
+      "true_eligible": false,
+      "correct": false,
+      "raw": "reasoning: Incorrect item received is a form of damage or defect covered by the policy.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1063",
+      "latency_s": 2.498,
+      "prompt": 353,
+      "completion": 21,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The policy only covers damaged items, not delays or change of mind.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1064",
+      "latency_s": 1.393,
+      "prompt": 288,
+      "completion": 19,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Item is missing components, which constitutes damage under the policy.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1065",
+      "latency_s": 1.157,
+      "prompt": 309,
+      "completion": 24,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer's issue is a compatibility problem, not physical damage to the item.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1066",
+      "latency_s": 1.199,
+      "prompt": 288,
+      "completion": 25,
+      "predicted_eligible": false,
+      "true_eligible": true,
+      "correct": false,
+      "raw": "reasoning: The customer is complaining about quality, not damage, and the policy only covers damaged items.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1067",
+      "latency_s": 1.94,
+      "prompt": 285,
+      "completion": 27,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: Customer wants a refund due to a change of mind, not damage. Policy only covers damaged items.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1068",
+      "latency_s": 1.008,
+      "prompt": 348,
+      "completion": 30,
+      "predicted_eligible": false,
+      "true_eligible": true,
+      "correct": false,
+      "raw": "reasoning: The item failed outside the 30-day refund window, and the policy only covers damage within that period.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1069",
+      "latency_s": 1.983,
+      "prompt": 295,
+      "completion": 28,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer's bedding set does not fit, which is not a damage issue covered by the policy.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1070",
+      "latency_s": 1.638,
+      "prompt": 369,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Item is damaged and within the 30-day window. Damage clause applies.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1071",
+      "latency_s": 1.427,
+      "prompt": 274,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: The jacket is damaged and the request is within the 30-day window.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1072",
+      "latency_s": 2.247,
+      "prompt": 351,
+      "completion": 22,
+      "predicted_eligible": true,
+      "true_eligible": false,
+      "correct": false,
+      "raw": "reasoning: Incorrect item received is a form of damage or defect covered by the policy.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1073",
+      "latency_s": 2.651,
+      "prompt": 312,
+      "completion": 28,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer is requesting a refund due to late delivery and having purchased an alternative, not due to damage.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1074",
+      "latency_s": 3.22,
+      "prompt": 271,
+      "completion": 16,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Missing parts are considered damage under the policy.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1075",
+      "latency_s": 3.979,
+      "prompt": 297,
+      "completion": 23,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The issue is compatibility, not damage, and the policy only covers damaged items.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1076",
+      "latency_s": 0.738,
+      "prompt": 288,
+      "completion": 27,
+      "predicted_eligible": false,
+      "true_eligible": true,
+      "correct": false,
+      "raw": "reasoning: The customer's complaint about perceived lower quality is not covered by the \"damaged items\" policy.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1077",
+      "latency_s": 1.191,
+      "prompt": 356,
+      "completion": 30,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: Customer is requesting a refund due to a change of mind, not damage, and the policy only covers damaged items.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1078",
+      "latency_s": 1.676,
+      "prompt": 312,
+      "completion": 21,
+      "predicted_eligible": false,
+      "true_eligible": true,
+      "correct": false,
+      "raw": "reasoning: Item is outside the 30-day refund window for damage.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1079",
+      "latency_s": 1.725,
+      "prompt": 282,
+      "completion": 31,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer's issue is that the shoes don't fit, which is not covered by the damaged items policy.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1080",
+      "latency_s": 1.477,
+      "prompt": 330,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Item is damaged and within the 30-day window. Damage clause applies.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1081",
+      "latency_s": 1.08,
+      "prompt": 359,
+      "completion": 25,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: The item is defective and the request is within the 30-day refund window.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1082",
+      "latency_s": 1.459,
+      "prompt": 350,
+      "completion": 22,
+      "predicted_eligible": true,
+      "true_eligible": false,
+      "correct": false,
+      "raw": "reasoning: Incorrect item received is a form of damage or defect covered by the policy.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1083",
+      "latency_s": 1.271,
+      "prompt": 352,
+      "completion": 22,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The policy only covers damaged items, not late deliveries or change of mind.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1084",
+      "latency_s": 1.95,
+      "prompt": 323,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Missing parts prevent assembly and use, which falls under the definition of a damaged item.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1085",
+      "latency_s": 1.783,
+      "prompt": 342,
+      "completion": 26,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer's issue is about compatibility and misleading description, not physical damage to the item.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1086",
+      "latency_s": 1.492,
+      "prompt": 282,
+      "completion": 22,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: The customer states the item quality is poor, which implies damage or defect.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1087",
+      "latency_s": 1.513,
+      "prompt": 317,
+      "completion": 32,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The policy only covers damaged items, and this request is for a change of mind outside the 30-day window.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1088",
+      "latency_s": 1.594,
+      "prompt": 313,
+      "completion": 21,
+      "predicted_eligible": false,
+      "true_eligible": true,
+      "correct": false,
+      "raw": "reasoning: Item is outside the 30-day refund window for damage.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1089",
+      "latency_s": 1.365,
+      "prompt": 295,
+      "completion": 21,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The item is not damaged, and the policy only covers damaged items.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1090",
+      "latency_s": 2.237,
+      "prompt": 298,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Item is damaged and within the 30-day window. Damage clause applies.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1091",
+      "latency_s": 1.604,
+      "prompt": 273,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": false,
+      "correct": false,
+      "raw": "reasoning: Item is damaged (stopped working) and within the 30-day window.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1092",
+      "latency_s": 1.554,
+      "prompt": 281,
+      "completion": 24,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer received the wrong item, which is not covered by the damaged item policy.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1093",
+      "latency_s": 1.415,
+      "prompt": 327,
+      "completion": 33,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The item was delivered late, but the customer is requesting a refund due to purchasing an alternative, not because the item is damaged.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1094",
+      "latency_s": 1.416,
+      "prompt": 288,
+      "completion": 28,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Missing components are considered damage under the policy and the request is within the 30-day window.\neligible: yes"
+    },
+    {
+      "ticket_id": "T-1095",
+      "latency_s": 1.184,
+      "prompt": 290,
+      "completion": 26,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer's issue is incompatibility, not damage, and the policy only covers damaged items.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1096",
+      "latency_s": 1.172,
+      "prompt": 281,
+      "completion": 22,
+      "predicted_eligible": false,
+      "true_eligible": true,
+      "correct": false,
+      "raw": "reasoning: The customer claims poor quality but does not explicitly state the item is damaged.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1097",
+      "latency_s": 1.207,
+      "prompt": 294,
+      "completion": 27,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: Customer wants to return item due to change of mind, outside the 30-day window.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1098",
+      "latency_s": 1.078,
+      "prompt": 341,
+      "completion": 31,
+      "predicted_eligible": false,
+      "true_eligible": true,
+      "correct": false,
+      "raw": "reasoning: The item failed after 45 days, which is outside the 30-day refund window for damaged items.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1099",
+      "latency_s": 1.204,
+      "prompt": 288,
+      "completion": 30,
+      "predicted_eligible": false,
+      "true_eligible": false,
+      "correct": true,
+      "raw": "reasoning: The customer's request is due to the item not fitting, which is not covered by the damaged items policy.\neligible: no"
+    },
+    {
+      "ticket_id": "T-1100",
+      "latency_s": 1.043,
+      "prompt": 287,
+      "completion": 24,
+      "predicted_eligible": true,
+      "true_eligible": true,
+      "correct": true,
+      "raw": "reasoning: Item is damaged and within the 30-day window. Damage clause applies.\neligible: yes"
+    }
+  ],
+  "accuracy": 0.76,
+  "n": 50,
+  "total_prompt_tokens": 15702,
+  "total_completion_tokens": 1260,
+  "total_tokens": 16962,
+  "total_calls": 50,
+  "variant": "v1"
+}

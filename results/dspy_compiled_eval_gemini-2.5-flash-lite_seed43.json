@@ -1,0 +1,1021 @@
+{
+  "model": "gemini-2.5-flash-lite",
+  "train_size": 50,
+  "test_size": 50,
+  "uncompiled": {
+    "accuracy": 0.68,
+    "rows": [
+      {
+        "latency_s": 1.309,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.099,
+        "prompt": 582,
+        "completion": 105,
+        "total": 687,
+        "calls": 2,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.235,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.694,
+        "prompt": 311,
+        "completion": 89,
+        "total": 400,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 6.115,
+        "prompt": 618,
+        "completion": 133,
+        "total": 751,
+        "calls": 2,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 0.993,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.744,
+        "prompt": 275,
+        "completion": 57,
+        "total": 332,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.212,
+        "prompt": 318,
+        "completion": 111,
+        "total": 429,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.006,
+        "prompt": 272,
+        "completion": 77,
+        "total": 349,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.139,
+        "prompt": 251,
+        "completion": 44,
+        "total": 295,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.713,
+        "prompt": 595,
+        "completion": 130,
+        "total": 725,
+        "calls": 2,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 3.19,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 0.797,
+        "prompt": 319,
+        "completion": 41,
+        "total": 360,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.703,
+        "prompt": 322,
+        "completion": 89,
+        "total": 411,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.255,
+        "prompt": 257,
+        "completion": 49,
+        "total": 306,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.046,
+        "prompt": 278,
+        "completion": 48,
+        "total": 326,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.133,
+        "prompt": 257,
+        "completion": 49,
+        "total": 306,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.364,
+        "prompt": 571,
+        "completion": 98,
+        "total": 669,
+        "calls": 2,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.906,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.725,
+        "prompt": 602,
+        "completion": 128,
+        "total": 730,
+        "calls": 2,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.137,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.271,
+        "prompt": 243,
+        "completion": 48,
+        "total": 291,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.396,
+        "prompt": 320,
+        "completion": 52,
+        "total": 372,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.133,
+        "prompt": 281,
+        "completion": 61,
+        "total": 342,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.425,
+        "prompt": 241,
+        "completion": 67,
+        "total": 308,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.342,
+        "prompt": 266,
+        "completion": 67,
+        "total": 333,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.392,
+        "prompt": 257,
+        "completion": 51,
+        "total": 308,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.37,
+        "prompt": 606,
+        "completion": 168,
+        "total": 774,
+        "calls": 2,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.014,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.711,
+        "prompt": 251,
+        "completion": 82,
+        "total": 333,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.622,
+        "prompt": 299,
+        "completion": 59,
+        "total": 358,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.998,
+        "prompt": 328,
+        "completion": 69,
+        "total": 397,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.454,
+        "prompt": 319,
+        "completion": 39,
+        "total": 358,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.023,
+        "prompt": 321,
+        "completion": 89,
+        "total": 410,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.688,
+        "prompt": 292,
+        "completion": 64,
+        "total": 356,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.337,
+        "prompt": 311,
+        "completion": 78,
+        "total": 389,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.714,
+        "prompt": 251,
+        "completion": 53,
+        "total": 304,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.916,
+        "prompt": 286,
+        "completion": 88,
+        "total": 374,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.529,
+        "prompt": 546,
+        "completion": 146,
+        "total": 692,
+        "calls": 2,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.171,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 2.032,
+        "prompt": 509,
+        "completion": 119,
+        "total": 628,
+        "calls": 2,
+        "correct": false,
+        "predicted_eligible": true,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 9.422,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.023,
+        "prompt": 250,
+        "completion": 52,
+        "total": 302,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.993,
+        "prompt": 296,
+        "completion": 48,
+        "total": 344,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.7,
+        "prompt": 257,
+        "completion": 53,
+        "total": 310,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.481,
+        "prompt": 259,
+        "completion": 69,
+        "total": 328,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.87,
+        "prompt": 250,
+        "completion": 57,
+        "total": 307,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.512,
+        "prompt": 263,
+        "completion": 81,
+        "total": 344,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.994,
+        "prompt": 567,
+        "completion": 140,
+        "total": 707,
+        "calls": 2,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.221,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      }
+    ],
+    "total_tokens": 17045,
+    "total_calls": 49
+  },
+  "compiled": {
+    "accuracy": 0.7,
+    "rows": [
+      {
+        "latency_s": 1.939,
+        "prompt": 715,
+        "completion": 19,
+        "total": 734,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.677,
+        "prompt": 812,
+        "completion": 74,
+        "total": 886,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.848,
+        "prompt": 750,
+        "completion": 41,
+        "total": 791,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.449,
+        "prompt": 801,
+        "completion": 68,
+        "total": 869,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.96,
+        "prompt": 790,
+        "completion": 86,
+        "total": 876,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.134,
+        "prompt": 808,
+        "completion": 91,
+        "total": 899,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.358,
+        "prompt": 765,
+        "completion": 83,
+        "total": 848,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.246,
+        "prompt": 1570,
+        "completion": 140,
+        "total": 1710,
+        "calls": 2,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.13,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.247,
+        "prompt": 741,
+        "completion": 48,
+        "total": 789,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.129,
+        "prompt": 765,
+        "completion": 65,
+        "total": 830,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.47,
+        "prompt": 810,
+        "completion": 72,
+        "total": 882,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.248,
+        "prompt": 809,
+        "completion": 46,
+        "total": 855,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.246,
+        "prompt": 812,
+        "completion": 68,
+        "total": 880,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.701,
+        "prompt": 1515,
+        "completion": 150,
+        "total": 1665,
+        "calls": 2,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.815,
+        "prompt": 747,
+        "completion": 67,
+        "total": 814,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.354,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.939,
+        "prompt": 1551,
+        "completion": 134,
+        "total": 1685,
+        "calls": 2,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.027,
+        "prompt": 754,
+        "completion": 62,
+        "total": 816,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.138,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.91,
+        "prompt": 828,
+        "completion": 63,
+        "total": 891,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.791,
+        "prompt": 733,
+        "completion": 52,
+        "total": 785,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.932,
+        "prompt": 810,
+        "completion": 41,
+        "total": 851,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 0.901,
+        "prompt": 771,
+        "completion": 47,
+        "total": 818,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.582,
+        "prompt": 731,
+        "completion": 33,
+        "total": 764,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.456,
+        "prompt": 756,
+        "completion": 67,
+        "total": 823,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.054,
+        "prompt": 747,
+        "completion": 70,
+        "total": 817,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.816,
+        "prompt": 815,
+        "completion": 74,
+        "total": 889,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 3.872,
+        "prompt": 771,
+        "completion": 71,
+        "total": 842,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.853,
+        "prompt": 741,
+        "completion": 55,
+        "total": 796,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.348,
+        "prompt": 789,
+        "completion": 63,
+        "total": 852,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.875,
+        "prompt": 818,
+        "completion": 60,
+        "total": 878,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.397,
+        "prompt": 809,
+        "completion": 46,
+        "total": 855,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.132,
+        "prompt": 811,
+        "completion": 68,
+        "total": 879,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.264,
+        "prompt": 1583,
+        "completion": 123,
+        "total": 1706,
+        "calls": 2,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.13,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.253,
+        "prompt": 741,
+        "completion": 49,
+        "total": 790,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 3.857,
+        "prompt": 776,
+        "completion": 68,
+        "total": 844,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 0.909,
+        "prompt": 772,
+        "completion": 72,
+        "total": 844,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.132,
+        "prompt": 754,
+        "completion": 50,
+        "total": 804,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.673,
+        "prompt": 757,
+        "completion": 64,
+        "total": 821,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": true,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.419,
+        "prompt": 732,
+        "completion": 54,
+        "total": 786,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 0.989,
+        "prompt": 740,
+        "completion": 46,
+        "total": 786,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 2.371,
+        "prompt": 1533,
+        "completion": 134,
+        "total": 1667,
+        "calls": 2,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.478,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.243,
+        "prompt": 749,
+        "completion": 68,
+        "total": 817,
+        "calls": 1,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.139,
+        "prompt": 740,
+        "completion": 48,
+        "total": 788,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.03,
+        "prompt": 1553,
+        "completion": 138,
+        "total": 1691,
+        "calls": 2,
+        "correct": false,
+        "predicted_eligible": false,
+        "true_eligible": true
+      },
+      {
+        "latency_s": 1.121,
+        "prompt": 747,
+        "completion": 63,
+        "total": 810,
+        "calls": 1,
+        "correct": true,
+        "predicted_eligible": false,
+        "true_eligible": false
+      },
+      {
+        "latency_s": 1.474,
+        "prompt": 0,
+        "completion": 0,
+        "total": 0,
+        "calls": 0,
+        "correct": true,
+        "predicted_eligible": true,
+        "true_eligible": true
+      }
+    ],
+    "total_tokens": 41723,
+    "total_calls": 50,
+    "compile_wall_s": 6.9
+  },
+  "seed": 43
+}

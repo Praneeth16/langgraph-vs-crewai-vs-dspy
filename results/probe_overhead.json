@@ -1,0 +1,66 @@
+{
+  "gemini-2.5-flash": [
+    {
+      "framework": "raw",
+      "latency_s": 3.042,
+      "prompt_tokens": 26,
+      "completion_tokens": 279,
+      "total_tokens": 305
+    },
+    {
+      "framework": "langgraph",
+      "latency_s": 2.89,
+      "prompt_tokens": 26,
+      "completion_tokens": 279,
+      "total_tokens": 305
+    },
+    {
+      "framework": "crewai",
+      "latency_s": 1.998,
+      "prompt_tokens": 182,
+      "completion_tokens": 118,
+      "total_tokens": 300,
+      "llm_calls": 1
+    },
+    {
+      "framework": "dspy",
+      "latency_s": 1.781,
+      "prompt_tokens": 160,
+      "completion_tokens": 90,
+      "total_tokens": 250,
+      "llm_calls": 1
+    }
+  ],
+  "gemini-3.1-flash-lite-preview": [
+    {
+      "framework": "raw",
+      "latency_s": 0.801,
+      "prompt_tokens": 26,
+      "completion_tokens": 18,
+      "total_tokens": 44
+    },
+    {
+      "framework": "langgraph",
+      "latency_s": 0.748,
+      "prompt_tokens": 26,
+      "completion_tokens": 18,
+      "total_tokens": 44
+    },
+    {
+      "framework": "crewai",
+      "latency_s": 0.774,
+      "prompt_tokens": 182,
+      "completion_tokens": 39,
+      "total_tokens": 221,
+      "llm_calls": 1
+    },
+    {
+      "framework": "dspy",
+      "latency_s": 0.777,
+      "prompt_tokens": 160,
+      "completion_tokens": 31,
+      "total_tokens": 191,
+      "llm_calls": 1
+    }
+  ]
+}
