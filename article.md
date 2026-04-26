@@ -459,6 +459,7 @@ Tier choice compounds faster than framework choice. Try Flash-Lite first.
 
 ## References
 
+- **Repo (clone, run, fork):** https://github.com/Praneeth16/langgraph-vs-crewai-vs-dspy
 - CrewAI Introduction: https://docs.crewai.com/en/introduction
 - CrewAI Flows: https://docs.crewai.com/en/concepts/flows
 - CrewAI Human-in-the-Loop (OSS): https://docs.crewai.com/en/learn/human-in-the-loop
